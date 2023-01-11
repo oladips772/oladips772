@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oladipupo Akorede
 =========================================================================================================================================
 
-Full Stack Software Developer (Web and Mobile)
+I'm A Full Stack Software Developer (Web and Mobile)
 ----------------------------------------------
 
 i'm a fullstack developer with profound knowledge and sound exprerience in building large and scallable web and mobile apps.
 
 * 🌍  I'm based in Nigeria
-* 🧠  I'm learning svelete
+* 🧠  I'm learning svelte
 * 🤝  I'm open to collaborating on fullstack app
 * ⚡  i'm really good with javascript react and react native
 
