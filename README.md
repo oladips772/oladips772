@@ -67,39 +67,121 @@ I help businesses automate their operations using AI agents, workflow automation
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 🤖 AI & Automation
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
+      <br><b>n8n</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" />
+      <br><b>OpenAI</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp" />
+      <br><b>WhatsApp</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="48" height="48" alt="Telegram" />
+      <br><b>Telegram</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/elevenlabs/000000" width="48" height="48" alt="ElevenLabs" />
+      <br><b>ElevenLabs</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/groq/F55036" width="48" height="48" alt="Groq" />
+      <br><b>Groq</b>
+    </td>
+  </tr>
+</table>
 
-**AI & Automation**
+### 💻 Development
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" />
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript" />
+      <br><b>TypeScript</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
+      <br><b>React</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="48" height="48" alt="Next.js" />
+      <br><b>Next.js</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="Node.js" />
+      <br><b>Node.js</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/express/000000" width="48" height="48" alt="Express" />
+      <br><b>Express</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" alt="MongoDB" />
+      <br><b>MongoDB</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind" />
+      <br><b>Tailwind</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML5" />
+      <br><b>HTML5</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/css3/1572B6" width="48" height="48" alt="CSS3" />
+      <br><b>CSS3</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/redux/764ABC" width="48" height="48" alt="Redux" />
+      <br><b>Redux</b>
+    </td>
+  </tr>
+</table>
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square&logoColor=white)
-
-**Development**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Tools & Platforms**
-
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
+### 🔧 Tools & Platforms
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" height="48" alt="Google Sheets" />
+      <br><b>Sheets</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/airtable/18BFFF" width="48" height="48" alt="Airtable" />
+      <br><b>Airtable</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" alt="Firebase" />
+      <br><b>Firebase</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" height="48" alt="Figma" />
+      <br><b>Figma</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/vercel/000000" width="48" height="48" alt="Vercel" />
+      <br><b>Vercel</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
